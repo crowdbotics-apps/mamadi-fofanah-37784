@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-splash](modules/splash)
 - [camera]()
 - [django-push-notifications](backend/modules)
+- [firebase-push-notifications]()
 
 # Getting started: Frontend
 
