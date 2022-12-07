@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [django-push-notifications](backend/modules)
 - [firebase-push-notifications]()
+- [react-native-push-notifications](modules/push-notifications)
 
 # Getting started: Frontend
 
